@@ -1,0 +1,5 @@
+html
+man7
+node_modules
+lib/**/*.js
+lib-cov
